@@ -1,0 +1,6 @@
+{
+  "label_dict_path": "label_dict.pickle",
+  "data_json_path": "data.json",
+  "pickle_folder_name": "Pickle_Files",
+  "dataset_path": "C:/Rujula/FINAL PROJECT/CODE/Data/genres_original"
+}
